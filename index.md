@@ -5,19 +5,19 @@ permalink: /
 author_profile: false
 ---
 
-Welcome to the **UCSD Computing & Data Sciences Undergraduate Conference**
+Welcome to the **UCSD Computing & Data Sciences Undergraduate Conference**!
 
-The **UCSD Computing & Data Sciences Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences (CDS). This conference provides a **platform for students to share their research, personal projects, internship experiences, and startup ideas**, .
+The **UCSD Computing & Data Sciences Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences (CDS).
+
+This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to share your journey**.
 
 ## What Is This Conference?
 
 This conference is **more than just an academic gathering**—it's an opportunity to:
 
-- 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or an internship experience, you can develop your ideas into a formal **2+ page IEEE-formatted paper** that will be showcased and archived for future reference.
+- 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish and document the hard work you've done.
 - 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work through a **poster session or a 5–15 minute slide presentation** in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
-- 🌐 **Expand Your Professional Network** – Meet like-minded peers, faculty, and industry professionals who share your enthusiasm for computing and data sciences. Engage in discussions, seek feedback, and explore potential collaborations.
-
-This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to share your journey**.
+- 🌐 **Expand Your Professional Network** – Meet peers, faculty, and industry professionals who share your enthusiasm for computing and data sciences.
 
 ## Our Mission
 
