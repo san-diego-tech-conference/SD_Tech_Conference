@@ -1,6 +1,7 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-include-cache
+  
 title: "UCSD Computing & Data Sciences Undergraduate Conference"
 description: "An opportunity for undergrads to publish and present research, projects, and ideas."
 
