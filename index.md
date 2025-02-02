@@ -7,6 +7,8 @@ author_profile: false
 
 Welcome to the official website of the 2025 **UC San Diego Computing and Data Science (CDS) Undergraduate Conference**!
 
+---
+
 ## What We Are
 
 The **UC San Diego CDS Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences.
