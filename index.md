@@ -7,13 +7,11 @@ author_profile: false
 
 Welcome to the **UCSD Computing & Data Sciences Undergraduate Conference**!
 
+## The CDS Conference?
+
 The **UCSD Computing & Data Sciences Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences (CDS).
 
-This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to share your journey**.
-
-## What Is The CDS Conference?
-
-This conference is **more than just an academic event**—it's an opportunity to:
+This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to:
 
 - 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish the hard work you've done.
 - 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
