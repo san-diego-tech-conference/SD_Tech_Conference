@@ -2,7 +2,7 @@
 layout: home
 title: "UC San Diego CDS Conference"
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
 Welcome to the official website of the 2025 **UC San Diego Computing and Data Science (CDS) Undergraduate Conference**!
