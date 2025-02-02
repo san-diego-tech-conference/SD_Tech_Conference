@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "UCSD Computing & Data Sciences Undergraduate Conference"
+title: "UC San Diego CDS Undergraduate Conference"
 permalink: /
 author_profile: false
 ---
 
-Welcome to the **UCSD Computing & Data Sciences Undergraduate Conference**!
+Welcome to the **UC San Diego CDS Undergraduate Conference**!
 
 ## The CDS Conference?
 
