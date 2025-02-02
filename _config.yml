@@ -16,6 +16,15 @@ header_pages:
 - schedule.md
 - contact.md
 
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Instagram"
+      url: "https://www.instagram.com/sd_cyber_conf"
+      icon: "fab fa-instagram"
+
 # Theme settings
 minimal_mistakes_skin: "sunrise"
 include: ["assets/css/custom.css"]
