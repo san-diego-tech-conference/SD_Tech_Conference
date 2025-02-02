@@ -11,32 +11,10 @@ plugins:
   - jekyll-include-cache
 
 header_pages:
-- _pages/home.md
+- index.md
 - _pages/submission.md
 - _pages/schedule.md
 - _pages/contact.md
-
-# Navigation
-nav:
-  - title: "Home"
-    url: /
-  - title: "Submission"
-    url: /submission/
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Contact"
-    url: /contact/
-
-# Sidebar
-sidebar:
-  - title: "Conference Info"
-    children:
-      - title: "Submission"
-        url: /submission/
-      - title: "Schedule"
-        url: /schedule/
-      - title: "FAQ"
-        url: /faq/
 
 # Theme settings
 minimal_mistakes_skin: "sunrise"
