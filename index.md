@@ -13,10 +13,10 @@ This is **not just for research**—it’s a space where students can **showcase
 
 ## What Is The CDS Conference?
 
-This conference is **more than just an academic gathering**—it's an opportunity to:
+This conference is **more than just an academic event**—it's an opportunity to:
 
 - 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish the hard work you've done.
-- 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work through a **poster session or a 5–15 minute slide presentation** in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
+- 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
 - 🌐 **Expand Your Professional Network** – Meet peers, faculty, and industry professionals who share your enthusiasm for computing and data sciences.
 
 ## Our Mission
@@ -29,7 +29,7 @@ Our goal is to create an **inclusive and supportive space** for students to grow
 
 
 ## **Submission Process**
-To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Once accepted, they will develop their work into a formal **IEEE-formatted paper** and choose a presentation format (**poster session or slide presentation**). Ready to get started? Learn more about the submission guidelines [Here](/CDS_Conference/submission/), or submit an application below!
+To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Ready to get started? Learn more about the submission guidelines [Here](/CDS_Conference/submission/), or submit an application below!
 
 📌 [Submit Your Proposal](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/edit)
 
