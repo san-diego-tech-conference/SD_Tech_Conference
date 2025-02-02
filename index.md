@@ -5,8 +5,6 @@ permalink: /
 author_profile: false
 ---
 
-# Welcome to the UCSD Computing & Data Sciences Undergraduate Conference 🎉
-
 **An opportunity for undergrads to publish and present research, projects, and ideas.**
 
 ## 📅 Important Dates
