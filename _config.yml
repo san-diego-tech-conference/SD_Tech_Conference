@@ -3,10 +3,28 @@ plugins:
   - jekyll-include-cache
   
 title: "UCSD Computing & Data Sciences Undergraduate Conference"
-description: "An opportunity for undergrads to publish and present research, projects, and ideas."
+tagline: "An opportunity for undergrads to publish and present research, projects, and ideas."
+description: "Official website for the UCSD Computing & Data Sciences Undergraduate Conference."
 
-show_repo_name: false
-show_downloads: false
+theme_mode: dark # You can change to "light" if you prefer.
 
-# Custom CSS
-include: ["assets/css/custom.css"]
+nav:
+  - title: "Home"
+    url: /
+  - title: "Submission"
+    url: /submission/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Contact"
+    url: /contact/
+
+sidebar:
+  - title: "Conference Info"
+    children:
+      - title: "Submission"
+        url: /submission/
+      - title: "Schedule"
+        url: /schedule/
+      - title: "FAQ"
+        url: /faq/
+
