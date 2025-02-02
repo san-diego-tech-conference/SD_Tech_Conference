@@ -4,4 +4,4 @@ title: "Contact Us"
 permalink: /contact/
 ---
 
-Have questions? Reach out at [contact@ucsdcdsconf.com](mailto:contact@ucsdcdsconf.com).
+Have questions? Reach out at [jodeterman@ucsd.edu](mailto:jodeterman@ucsd.edu).
