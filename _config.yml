@@ -1,17 +1,17 @@
-# Site settings
 title: "UCSD Computing & Data Sciences Undergraduate Conference"
-tagline: "An opportunity for undergrads to publish and present research, projects, and ideas."
-description: "Official website for the UCSD Computing & Data Sciences Undergraduate Conference."
+description: "An opportunity for undergrads to publish and present research, projects, and ideas."
+
 url: "https://jackdeterman.github.io"
 baseurl: "/CDS_Conference"
 
-# Theme setup
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Use Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-include-cache
 
 # Navigation
-navbar:
+nav:
   - title: "Home"
     url: /
   - title: "Submission"
@@ -31,3 +31,6 @@ sidebar:
         url: /schedule/
       - title: "FAQ"
         url: /faq/
+
+# Theme settings
+minimal_mistakes_skin: "sunrise"  # Options: default, air, dark, neon, etc.
