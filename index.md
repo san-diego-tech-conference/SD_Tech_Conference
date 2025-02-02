@@ -11,11 +11,11 @@ The **UCSD Computing & Data Sciences Undergraduate Conference** is a student-run
 
 This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to share your journey**.
 
-## What Is This Conference?
+## What Is The CDS Conference?
 
 This conference is **more than just an academic gathering**—it's an opportunity to:
 
-- 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish and document the hard work you've done.
+- 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish the hard work you've done.
 - 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work through a **poster session or a 5–15 minute slide presentation** in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
 - 🌐 **Expand Your Professional Network** – Meet peers, faculty, and industry professionals who share your enthusiasm for computing and data sciences.
 
@@ -23,7 +23,7 @@ This conference is **more than just an academic gathering**—it's an opportunit
 
 Our goal is to create an **inclusive and supportive space** for students to grow academically and professionally. We are committed to:
 
-- **Empowering Undergraduates** – Providing a structured yet accessible platform for students to present and discuss their work.
+- **Empowering Undergraduates** – Providing a structured and accessible platform for students to present and discuss their work.
 - **Encouraging Collaboration** – By bringing together students from Computer Science, Data Science, and related disciplines, we aim to foster a dynamic community of thinkers, builders, and innovators.
 - **Ensuring Fair Recognition** – Through a **blind review process**, every submission is evaluated on its merit. We will recognize outstanding contributions with awards for **Best Paper, Best Project, Best Presentation, and Best Demo**.
 
