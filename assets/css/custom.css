@@ -1,0 +1,32 @@
+/* UCSD Color Theme */
+body {
+    background-color: #00274D;
+    color: #FFD700;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #FFD700; /* Gold */
+}
+
+a {
+    color: #FFD700;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header {
+    background-color: #004F9E;
+    padding: 20px;
+    color: white;
+}
+
+footer {
+    background-color: #004F9E;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

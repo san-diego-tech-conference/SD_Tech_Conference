@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: "UCSD Computing & Data Sciences Undergraduate Conference"
+description: "An opportunity for undergrads to publish and present research, projects, and ideas."
+
+# Custom CSS
+include: ["assets/css/custom.css"]
