@@ -13,8 +13,8 @@ plugins:
 header_pages:
 - index.md
 - submission.md
-- _pages/schedule.md
-- _pages/contact.md
+- schedule.md
+- contact.md
 
 # Theme settings
 minimal_mistakes_skin: "sunrise"
