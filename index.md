@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "UC San Diego CDS Undergraduate Conference"
+title: "UC San Diego CDS Conference"
 permalink: /
 author_profile: false
 ---
 
-Welcome to the **UC San Diego CDS Conference**!
+Welcome to the official website of the 2025 **UC San Diego CDS Conference**!
 
 ## What We Are
 
