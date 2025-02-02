@@ -11,7 +11,7 @@ Welcome to the **UC San Diego CDS Conference**!
 
 The **UC San Diego Computing and Data Science (CDS) Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences.
 
-This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the **perfect place to:
+This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the perfect place to:
 
 - 📜 **Turn Your Work into a Publication** – Whether it’s a personal project, independent research, or internship experience, this conference provides a platform to professionally pubish the hard work you've done.
 - 🫱🏽‍🫲🏾 **Refine Your Public Speaking Skills** – Present your work in a low-pressure, encouraging environment. Gain experience explaining technical concepts to a diverse audience, a critical skill for future career and research opportunities.
