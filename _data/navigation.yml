@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Submission"
+    url: /submission/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Contact"
+    url: /contact/
