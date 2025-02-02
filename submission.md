@@ -4,7 +4,7 @@ title: "Submit Your Proposal"
 permalink: /submission/
 ---
 
-**Submit your project [here](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/)** .
+**Submit your project [here](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/)**
 
 ### Track 1: Completed and Near-Completed Projects
 - Submit an abstract of the project that you would use in your paper (about 150-250 words). *(Don’t worry about perfection. You can edit this for your final Summer submission.)*
