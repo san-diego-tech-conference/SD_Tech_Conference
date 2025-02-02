@@ -12,7 +12,7 @@ plugins:
 
 header_pages:
 - index.md
-- _pages/submission.md
+- submission.md
 - _pages/schedule.md
 - _pages/contact.md
 
