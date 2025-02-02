@@ -10,6 +10,19 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+
+author_profile:
+  name: "Jack Determan"
+  avatar: "/assets/img/jane.jpg"
+  bio: "A passionate developer and writer exploring web technologies."
+  location: "San Francisco, CA"
+  email: "jane@example.com"
+  website: "https://janedoe.com"
+  social:
+    twitter: janedoe
+    github: janedoe
+    linkedin: janedoe
+
 header_pages:
 - index.md
 - submission.md
