@@ -40,7 +40,7 @@ The conference will be held **during the early Fall Quarter** in the **HDSI conf
 ---
 
 ## Get Involved
-Explore the site for more details about submission guidelines, the event schedule, and how to participate. Whether you're looking to **present, publish, or simply engage with the community**, this is the perfect opportunity to **showcase your work, build your skills, and connect with others** who share your enthusiasm.
+Explore the site for more details about submission guidelines, the event schedule, and how to participate.
 
 For any questions, please visit our [Contact page](/CDS_Conference/contact/).
 
