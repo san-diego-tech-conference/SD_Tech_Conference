@@ -30,3 +30,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+footer a[href*="github.com"] {
+    display: none !important;
+}
