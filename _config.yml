@@ -10,6 +10,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+header_pages:
+- _pages/home.md
+- _pages/submission.md
+- _pages/schedule.md
+- _pages/contact.md
+
 # Navigation
 nav:
   - title: "Home"
