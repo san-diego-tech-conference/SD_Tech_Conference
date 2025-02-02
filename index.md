@@ -29,7 +29,7 @@ Our goal is to create an **inclusive and supportive space** for students to grow
 
 
 ## **Submission Process**
-To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Once accepted, they will develop their work into a formal **IEEE-formatted paper** and choose a presentation format (**poster session or slide presentation**). Ready to get started? 
+To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Once accepted, they will develop their work into a formal **IEEE-formatted paper** and choose a presentation format (**poster session or slide presentation**). Ready to get started? Learn more about the submission guidelines [Here](/submission/), or submit an application below!
 
 📌 [Submit Your Proposal](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/edit)
 
