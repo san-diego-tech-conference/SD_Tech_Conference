@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Submission"
+layout: single
+title: "Submit Your Proposal"
 permalink: /submission/
 ---
 
