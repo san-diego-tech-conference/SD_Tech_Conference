@@ -1,0 +1,21 @@
+/* Reduce font sizes */
+body {
+    font-size: 14px !important;
+}
+
+h1 {
+    font-size: 26px !important;
+}
+
+h2 {
+    font-size: 22px !important;
+}
+
+h3 {
+    font-size: 18px !important;
+}
+
+/* Reduce menu font size */
+nav {
+    font-size: 14px !important;
+}

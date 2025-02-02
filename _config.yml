@@ -39,4 +39,5 @@ sidebar:
         url: /faq/
 
 # Theme settings
-minimal_mistakes_skin: "sunrise"  # Options: default, air, dark, neon, etc.
+minimal_mistakes_skin: "sunrise"
+include: ["assets/css/custom.css"]
