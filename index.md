@@ -35,7 +35,7 @@ Our goal is to create an **inclusive and supportive space** for students to grow
 ## **Application Process**
 To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Ready to get started? Learn more about the submission guidelines [Here](/CDS_Conference/submission/), or submit an application below!
 
-📌 [Submit Your Application](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/edit)
+📌 [Submit Your Application](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/)
 
 ---
 
