@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Submission"
+  - title: "Application"
     url: /submission/
   - title: "Schedule"
     url: /schedule/
