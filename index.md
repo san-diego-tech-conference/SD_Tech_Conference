@@ -1,17 +1,17 @@
 ---
 layout: home
-title: "UC San Diego CDS Conference"
+title: "San Diego Cyber Conference"
 permalink: /
 author_profile: false
 ---
 
-Welcome to the official website of the 2025 **UC San Diego Computing and Data Science (CDS) Undergraduate Conference**!
+Welcome to the official website of the 2025 **San Diego Cyber Conference**!
 
 ---
 
 ## What We Are
 
-The **UC San Diego CDS Undergraduate Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences.
+The **San Diego Cyber Conference** is a student-run event designed to **celebrate the creativity and innovation of undergraduate work** in computing and data sciences.
 
 This is **not just for research**—it’s a space where students can **showcase passion projects, dive deeper into niche topics, and present internship work that has had a meaningful impact**. Whether you’ve built a tool, analyzed an interesting dataset, contributed to open-source projects, or developed an innovative application, this conference is the perfect place to:
 
@@ -32,10 +32,10 @@ Our goal is to create an **inclusive and supportive space** for students to grow
 
 ---
 
-## **Submission Process**
+## **Application Process**
 To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Ready to get started? Learn more about the submission guidelines [Here](/CDS_Conference/submission/), or submit an application below!
 
-📌 [Submit Your Proposal](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/edit)
+📌 [Submit Your Application](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/edit)
 
 ---
 
