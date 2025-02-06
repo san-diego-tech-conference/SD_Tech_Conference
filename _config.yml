@@ -27,5 +27,5 @@ footer:
       icon: "fab fa-instagram"
 
 # Theme settings
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "dark"
 include: ["assets/css/custom.css"]
