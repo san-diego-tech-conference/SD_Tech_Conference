@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "San Diego Cyber Conference"
+title: "San Diego Conference"
 permalink: /
 author_profile: false
 ---
