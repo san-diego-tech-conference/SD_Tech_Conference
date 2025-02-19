@@ -1,7 +1,9 @@
 ---
 ---
+{
+
 @import "minimal-mistakes/skins/air";
-// @import "minimal-mistakes"; // Import base styles
+@import "minimal-mistakes"; // Import base styles
 
 $background-color: #eeeeee !default;
 $accent-purple-color: #340080 !default;
@@ -33,4 +35,6 @@ a {
 
 .page__footer-follow .social-icons .svg-inline--fa {
     color: inherit;
+}
+
 }
