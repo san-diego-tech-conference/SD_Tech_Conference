@@ -33,7 +33,7 @@ Our goal is to create an **inclusive and supportive space** for students to grow
 ---
 
 ## **Application Process**
-To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Ready to get started? Learn more about the submission guidelines [Here](/CDS_Conference/submission/), or submit an application below!
+To participate, students must submit a **proposal outlining their project, research, or topic of interest**. Ready to get started? Learn more about the submission guidelines [Here](/SD_Tech_Conference/submission/), or submit an application below!
 
 📌 [Submit Your Application](https://docs.google.com/forms/d/1rzDWWH-4ytHpyIjoJF7xkPvsrbebqWS-iH42dQ8ojOs/)
 
@@ -47,7 +47,7 @@ The conference will be held **during the early Fall Quarter** in the **HDSI conf
 ## Get Involved
 Explore the site for more details about submission guidelines, the event schedule, and how to participate.
 
-For any questions, please visit our [Contact page](/CDS_Conference/contact/).
+For any questions, please visit our [Contact page](/SD_Tech_Conference/contact/).
 
 We can’t wait to see your innovative ideas and contributions!
 

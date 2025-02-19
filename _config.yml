@@ -1,8 +1,10 @@
 title: "San Diego Undergraduate Tech Conference"
 description: "An opportunity for undergrads to publish and present research, projects, and ideas."
 
-url: "https://jackdeterman.github.io"
-baseurl: "/CDS_Conference"
+# url: "https://jackdeterman.github.io"
+# baseurl: "/CDS_Conference"
+url: "https://san-diego-tech-conference.github.io"
+baseurl: "/SD_Tech_Conference"
 
 # Use Minimal Mistakes
 remote_theme: "jackdeterman/minimal-mistakes"
@@ -23,7 +25,7 @@ atom_feed:
 footer:
   links:
     - label: "Instagram"
-      url: "https://www.instagram.com/sd_cyber_conf"
+      url: "https://www.instagram.com/sd_tech_conf"
       icon: "fab fa-instagram"
 
 # Theme settings

@@ -7,7 +7,7 @@ permalink: /submission/
 There are two tracks available for applications to the San Diego Undergraduate Tech Conference:
 
 ### Track 1: Completed and Near-Completed Projects
-- Submit an abstract of the project that you would use in your paper (about 150-250 words). *(Don’t worry about perfection. You can edit this for your final Summer submission.)*
+- Submit an abstract of the project that you would use in your paper (about 250 words). *(Don’t worry about perfection. You can edit this for your final Summer submission.)*
 - Submit materials you have already developed for this project.
 
 ---
