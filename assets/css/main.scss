@@ -2,21 +2,20 @@
 
 $background-color: #eeeeee !default;
 $accent-purple-color: #340080 !default;
-$black: #000000 !default;
-$text-color: $black !default;
-$muted-text-color: #393e46 !default;
-$primary-color: #0092ca !default;
-$border-color: mix(#fff, #393e46, 75%) !default;
-$footer-background-color: #bfff80 !default;
-$link-color: #393e46 !default;
+$text-color: #000000 !default;
+$muted-text-color: #9d85bc !default;
+$primary-color: #d6fbb2 !default;
+$border-color: mix(#fff, #9d85bc, 75%) !default;
+$footer-background-color: #d6fbb2 !default;
+$link-color: #340080 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-h1,h2,h3,h4 {
+.post-content h1,h2,h3,h4 {
     color: $accent-purple-color !important;
 }
-body {
+.post-content body {
     background-color: $background-color;
     color: $text-color !important;
 }
