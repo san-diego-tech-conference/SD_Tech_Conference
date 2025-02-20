@@ -17,7 +17,7 @@ navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 @import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
 
 .post-content h1,h2,h3,h4 {
-    color: #340080 !important;
+    color: #251199 !important;
 }
 .post-content body {
     background-color: #eeeeee;
@@ -25,11 +25,11 @@ navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 
 a {
-    color: #340080;
+    color: #251199;
 }
 
 .page__footer {
-    color: #340080 !important;
+    color: #251199 !important;
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
@@ -43,7 +43,9 @@ body {
     font: 100%/1.5 system-ui;
     max-width: 80ch;
     margin: auto;
-    padding:100px;
+    padding:20px;
+    padding-left: 40px;
+    padding-right: 40px;
     font-size: 18px;
     /*display: contents;*/
   }
@@ -51,13 +53,14 @@ body {
 /* Navigation Menu */
 nav {
     display: flex;
-    margin-bottom: 1ch; /* was 10, I wanted less */
+    margin-bottom: 30px; /* was 10, I wanted less */
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: oklch(80% 3% 200);
-    position: absolute; /* Moves it relative to the page */
+    border-bottom-color: #d6fbb2;
+    /*position: absolute; /* Moves it relative to the page */
     top: 30px; /* Adjust upward movement */
-    right: 100px; /* Adjust movement to the right */   
+    max-width: 100;
+    /*right: 100px; /* Adjust movement to the right */   
     a{flex: 1; 
         text-decoration: none; 
         color: inherit; 
@@ -71,7 +74,7 @@ nav {
 }
 
 .current{
-    border-bottom: 0.4em solid oklch(80% 2% 200);
+    border-bottom: 0.4em solid #d6fbb2;
 }
 :root{ /*pseudoclass (already built in)*/
     --color-accent: #d6fbb2;
@@ -123,7 +126,7 @@ h1, h2, h3, h4, h5, h6{
     line-height: 1.1;
     text-wrap: balance;
     font-size: 20px;
-    color: #340080;
+    color: #251199;
 }
 
 h1{
