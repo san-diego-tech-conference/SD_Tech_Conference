@@ -17,7 +17,7 @@ navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 @import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
 
 .post-content h1,h2,h3,h4 {
-    color: #251199 !important;
+    color: #423db0 !important;
 }
 .post-content body {
     background-color: #eeeeee;
@@ -25,11 +25,11 @@ navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 
 a {
-    color: #251199;
+    color: #423db0;
 }
 
 .page__footer {
-    color: #251199 !important;
+    color: #423db0 !important;
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6{
     line-height: 1.1;
     text-wrap: balance;
     font-size: 20px;
-    color: #251199;
+    color: #423db0;
 }
 
 h1{
@@ -161,32 +161,6 @@ p{
     font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-
-/* Dark mode
-
-  /* Dark mode styling */
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: black;
-      color: white;
-    }
-  }
-  
-  nav a.current {
-    font-weight: bold;
-  }
-
-.color-scheme {
-    position: absolute;
-    top: 1rem; /* Adjust the spacing from the top */
-    right: 1rem; /* Adjust the spacing from the right */
-    font-size: 80%; /* Make the font size smaller */
-    font-family: inherit; /* Ensure it inherits the parent's font-family */
-    padding: 0.5rem; /* Optional: Add some padding */
-    border-radius: 5px; /* Optional: Add rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
-  } */
 
 .project-title {
 height: 65px;  /* Adjust based on design needs */
