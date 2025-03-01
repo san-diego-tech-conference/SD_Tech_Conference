@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Automatically creating the navigation menu
 document.addEventListener('DOMContentLoaded', () => {
   const pages = [
-    { url: "../", title: "Home" },
+    { url: "index.html", title: "Home" },
     { url: "application/", title: "Application" },
     { url: "schedule/", title: "Schedule" },
     { url: "contact/", title: "Contact" },
