@@ -16,7 +16,7 @@ navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 @import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
 
-.post-content h1,h2,h3,h4 {
+.post-content h1,h2,h3 {
     color: #423db0 !important;
 }
 .post-content body {
@@ -122,7 +122,7 @@ article{ /* not working? */
 section{
     padding:5px;
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3{
     line-height: 1.1;
     text-wrap: balance;
     font-size: 20px;
@@ -141,6 +141,11 @@ h1{
     border-style: solid;
     border-color: #d6fbb2;
     border-radius: 1%; */
+}
+h4{
+    margin: -10px;
+    margin-top: 10px;
+    padding-left: 30px;
 }
 hr {
     display: block;
