@@ -1,18 +1,5 @@
 ---
 ---
-/* .root{
---background-color: #eeeeee !default;
-$accent-purple-color: #340080 !default;
-$text-color: #000000 !default; 
-$muted-text-color: #9d85bc !default;
-$primary-color: #d6fbb2 !default;
-$border-color: mix(#fff, #9d85bc, 75%) !default;
-$footer-background-color: #d6fbb2 !default;
-$link-color: #340080 !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-} */
 
 @import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
 
@@ -80,13 +67,7 @@ nav {
     --color-accent: #d6fbb2;
     accent-color: var(--color-accent);
 }
-input{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-textarea{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-button{
+input, textarea, button{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 form{
@@ -109,11 +90,6 @@ form{
         grid-column: 1 / -1;
     }
 }
-.projects{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
-    gap: 1em;
-}
 article{ /* not working? */
     grid-template-rows: subgrid;
     grid-row: span 3;
@@ -122,25 +98,31 @@ article{ /* not working? */
 section{
     padding:5px;
 }
+
+/* .h0{
+    font-weight: 150;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+} */
 h1, h2, h3{
     line-height: 1.1;
     text-wrap: balance;
     font-size: 20px;
     color: #423db0;
 }
-
 h1{
     font-size: 35px;
     margin: 0px;
     margin-bottom: 20px;
-    display: flex;
     font-family: 'Tomorrow', sans-serif;
     font-weight: 700;
     font-variation-settings: 'wght' 700;
-    /* border: 1px; 
-    border-style: solid;
-    border-color: #d6fbb2;
-    border-radius: 1%; */
+    width: auto;
+    text-align: center;
+}
+h2{
+    font-size: 25px;
 }
 h4{
     margin: -10px;
@@ -155,156 +137,11 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
-h2{
-    font-size: 25px;
-}
 p{
     margin: 8px;
 }
-.h0{
-    font-weight: 150;
-    font-size: 50px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
 
-.project-title {
-height: 65px;  /* Adjust based on design needs */
-display: -webkit-box;
--webkit-line-clamp: 3; /* Ensures at most 2 lines */
--webkit-box-orient: vertical;
-overflow: hidden;
 
-/* Ensure words wrap correctly */
-white-space: normal; 
-word-wrap: break-word;
-overflow-wrap: break-word;
-
-/* Prevent single long words from forcing an ellipsis */
-hyphens: auto;  /* Adds hyphenation for long words */
-margin-top: auto;
-}
-
-#projects-plot { 
-max-width: 20em;
-margin-block: 2em;
-overflow: visible;
-}
-
-/* .swatch{
-    grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
-    display: grid;
-    align-items: center;
-}  */
-.legend {
-    display: grid; /* Makes it horizontal */
-    /* flex-wrap: wrap; /* Allows items to wrap if needed */
-    grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
-    gap: 10px; /* Space between items */
-    padding: 5px;
-    margin: 50px;
-    border: 1px solid #ccc;
-    background: #f8f8f8;
-    list-style: none; /* Removes bullet points */
-    justify-content: space-between; /* Evenly space items */
-    width: 600px;
-    height: 200px;
-    flex: 1;
-}
-
-.legend-item {
-    display: flex;
-    align-items: center;
-    gap: 8px; /* Spacing between swatch and text */
-    padding: 10px;
-}
-
-.swatch {
-    /* display: grid; */
-    align-items: center;
-    width: 20px;
-    height: 20px;
-    display: inline-block;
-    border-radius: 4px; /* Slight rounding */
-    /* background-color: ; */
-}
-
-.container {
-    display: flex;
-    /*flex-wrap: wrap; /* Allows items to wrap if needed */
-    /* aspect-ratio: 1/1;
-    width: 800px;
-    height: 600px; */
-    align-items: center;
-}
-
-.searchBar{
-    width: 400px;
-    height: 50px;
-    font-size: 20px;
-}
-
-svg{
-    &:has(path:hover) {
-        path:not(:hover) {
-          opacity: 0.5;
-        }
-      }
-}
-path {
+/* path {
     transition: 100ms;
-  }
-
-.selected-slice {
-    --color: oklch(10% 10% 10) !important;
-  
-    &:is(path) {
-      fill: var(--color);
-    }
-  }
-
-.legend .selected {
-    font-weight: bold;
-    text-decoration: underline;
-    opacity: 0.8;
-}
-
-  /* .selected-slice {
-    stroke: black; /* Add an outline
-    stroke-width: 1px;
-    opacity: 1; /* Slightly emphasize */
-
-
-/* Meta Page */
-
-/* In your CSS, add two rules:
-
-dl.info with grid layout so that the <dt>s are on the 1st column and the <dd>s on the 2nd, remove their default margins, and apply some styling to make the labels less prominent than the values.
-.tooltip with position: fixed and top: 1em; and left: 1em; to place it at the top left of the viewport so we can see it regardless of scroll status.
-Note: Why not just add everything in a single CSS rule? Because this way we can reuse the .info class for other <dl>s that are not tooltips and the .tooltip class for other tooltips that are not <dl>s. 
-*/
-
-
-circle {
-    transition: 200ms;
-    transform-origin: center;
-    transform-box: fill-box;
-  }
-  
-circle:hover {
-    transform: scale(1.5);
-  }
-
-dl.info {
-/* ... other styles ... */
-transition-duration: 500ms;
-transition-property: opacity, visibility;
-}
-
-dl.info[hidden]:not(:hover, :focus-within) {
-opacity: 0;
-visibility: hidden;
-}
-
-circle.selected {
-    fill: #ff6b6b;
-  }
+  } */
