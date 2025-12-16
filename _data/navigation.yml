@@ -7,3 +7,7 @@ main:
     url: /schedule/
   - title: "Contact"
     url: /contact/
+ 
+  - title: "Papers"
+    url: /papers
+

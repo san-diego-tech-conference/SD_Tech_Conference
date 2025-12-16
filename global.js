@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     { url: "application/", title: "Application" },
     { url: "brainstorm/", title: "Brainstorming" },
     { url: "schedule/", title: "Schedule" },
+    { url: "papers/", title: "Papers" },
     { url: "contact/", title: "Contact" },
     // Add more pages as needed
   ];
