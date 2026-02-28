@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const pages = [
     { url: "index.html", title: "Home" },
     { url: "application/", title: "Application" },
-    { url: "brainstorm/", title: "Brainstorming" },
+    { url: "faq/", title: "FAQ" },
     { url: "schedule/", title: "Schedule" },
-    { url: "papers/", title: "Papers" },
+    { url: "papers/", title: "2025 Papers" },
     { url: "contact/", title: "Contact" },
     // Add more pages as needed
   ];
