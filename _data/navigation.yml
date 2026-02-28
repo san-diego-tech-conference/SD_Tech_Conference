@@ -5,9 +5,9 @@ main:
     url: /submission/
   - title: "Schedule"
     url: /schedule/
+  - title: "Papers"
+    url: /papers/
+  - title: "FAQ"
+    url: /faq/
   - title: "Contact"
     url: /contact/
- 
-  - title: "Papers"
-    url: /papers
-
