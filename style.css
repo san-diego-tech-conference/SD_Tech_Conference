@@ -16,11 +16,11 @@ body {
 }
 
 a {
-    color: #423db0;
+    color: #b3eba4;
 }
 
 .page__footer {
-    color: #423db0 !important;
+    color: #b3eba4 !important;
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
@@ -47,7 +47,7 @@ nav {
     margin-bottom: 30px; /* was 10, I wanted less */
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: #d6fbb2;
+    border-bottom-color: #0e0021;
     /*position: absolute; /* Moves it relative to the page */
     top: 30px; /* Adjust upward movement */
     max-width: 100;
@@ -65,10 +65,10 @@ nav {
 }
 
 .current{
-    border-bottom: 0.4em solid #d6fbb2;
+    border-bottom: 0.4em solid #b3eba4;
 }
 :root{ /*pseudoclass (already built in)*/
-    --color-accent: #d6fbb2;
+    --color-accent: #b3eba4;
     accent-color: var(--color-accent);
 }
 input, textarea, button{
@@ -113,7 +113,7 @@ h1, h2, h3, h5{
     line-height: 1.1;
     text-wrap: balance;
     font-size: 20px;
-    color: #423db0;
+    color: #b3eba4;
 }
 h1{
     font-size: 35px;
