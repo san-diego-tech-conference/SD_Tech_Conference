@@ -3,12 +3,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
 
-.post-content h1,h2,h3 {
+/* .post-content h1,h2,h3 {
     color: #423db0 !important;
-}
-.post-content body {
-    background-color: #eeeeee;
-    color: #000000 !important;
+} */
+/* .post-content body {
+    background-color: e#000000;
+    color: #eeeeee !important;
+} */
+body {
+    background-color: #000000;
+    color: #eeeeee !important;
 }
 
 a {
