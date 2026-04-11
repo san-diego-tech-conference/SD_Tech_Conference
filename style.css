@@ -42,16 +42,14 @@ body {
   }
 
 /* Navigation Menu */
-nav {
+/* nav {
     display: flex;
-    margin-bottom: 30px; /* was 10, I wanted less */
+    margin-bottom: 30px; 
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: #0e0021;
-    /*position: absolute; /* Moves it relative to the page */
-    top: 30px; /* Adjust upward movement */
+    border-bottom-color: #4f4c53;
+    top: 30px; 
     max-width: 100;
-    /*right: 100px; /* Adjust movement to the right */   
     a{flex: 1; 
         text-decoration: none; 
         color: inherit; 
@@ -59,10 +57,34 @@ nav {
         padding: 0.5em; 
         &:hover{border-bottom: 0.4em solid var(--color-accent);
             background-color: color-mix(in oklch, var(--color-accent), #000000 80%);}
-        /* this also works outside a -> a:hover{border-bottom: 
-            0.4em solid var(--color-accent);} */
+        
     }
+} */
+/* this also works outside a -> a:hover{border-bottom: 
+            0.4em solid var(--color-accent);} */
+
+nav {
+    display: flex;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #cacaca;
+    width: 100%;              /* make sure it fits screen */
+    overflow-x: auto;         /* allows scrolling if needed on very small screens */
 }
+
+nav a {
+    flex: 1;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    padding: 0.5em;
+    font-size: clamp(0.8rem, 2.5vw, 1rem); /* responsive font */
+    white-space: nowrap;      /* prevent text wrapping */
+}
+
+nav a:hover {
+    border-bottom: 0.4em solid var(--color-accent);
+    background-color: color-mix(in oklch, var(--color-accent), #000000 80%);
+}            
 
 .current{
     border-bottom: 0.4em solid #b3eba4;
