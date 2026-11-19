@@ -21,43 +21,85 @@ document.addEventListener('DOMContentLoaded', () => {
   const pages = [
     { url: "index.html", title: "Home" },
     { url: "application/", title: "Application" },
-    { url: "papers/", title: "2025 Papers" },
+    {
+      title: "Proceedings",
+      children: [
+        { url: "2025-publishing/", title: "2025" },
+        { url: "2026-publishing/", title: "2026" },
+      ],
+    },
     { url: "faq/", title: "FAQ" },
     { url: "contact/", title: "Contact" },
-    // Add more pages as needed
   ];
 
   const nav = document.createElement('nav');
   document.body.prepend(nav);
 
   const ARE_WE_HOME = document.documentElement.classList.contains('home');
-  
-  for (let p of pages) {
-    let url = p.url;
-    let title = p.title;
 
+  
+  function makeLink(p) {
+    let url = p.url;
     if (!ARE_WE_HOME && !url.startsWith('http')) {
       url = '../' + url;
     }
-
-    let a = document.createElement('a');
+    const a = document.createElement('a');
     a.href = url;
-    a.textContent = title;
-    
-    // Add 'current' class if this link is for the current page
+    a.textContent = p.title;
+
     if (a.host === location.host && a.pathname === location.pathname) {
       a.classList.add('current');
     }
-
-    // Add external links to open in a new tab
     if (a.host !== location.host) {
       a.target = "_blank";
     }
-    console.log("Adding nav menu...");
-    document.body.prepend(nav);
-    nav.append(a);
+    return a;
+  }
+
+  for (const p of pages) {
+    if (!p.children) {
+      nav.append(makeLink(p));
+      continue;
+    }
+
+    const dropdown = document.createElement('div');
+    dropdown.className = 'dropdown';
+
+    const toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.className = 'dropdown-toggle';
+    toggle.textContent = `${p.title} ▾`;
+    toggle.setAttribute('aria-haspopup', 'true');
+    toggle.setAttribute('aria-expanded', 'false');
+
+    const menu = document.createElement('div');
+    menu.className = 'dropdown-menu';
+
+    for (const child of p.children) {
+      const link = makeLink(child);
+      menu.append(link);
+      // Highlight "Proceedings" when you're on 2025 or 2026
+      if (link.classList.contains('current')) toggle.classList.add('current');
+    }
+
+    // Click support for touch screens / keyboard
+    toggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const open = dropdown.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+    });
+    document.addEventListener('click', () => {
+      dropdown.classList.remove('open');
+      toggle.setAttribute('aria-expanded', 'false');
+    });
+
+    dropdown.append(toggle, menu);
+    nav.append(dropdown);
   }
 });
+
+
+
 
 // // Dark mode functionality
 // document.addEventListener('DOMContentLoaded', () => {

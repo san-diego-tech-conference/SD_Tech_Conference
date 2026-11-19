@@ -46,7 +46,7 @@ nav {
     margin-bottom: 15px;
     border-bottom: 1px solid #cacaca;
     width: 100%;              /* make sure it fits screen */
-    overflow-x: auto;         /* allows scrolling if needed on very small screens */
+    /*overflow-x: auto;         /* allows scrolling if needed on very small screens */
 }
 
 nav a {
@@ -156,6 +156,53 @@ p{
 }
 
 
-/* path {
-    transition: 100ms;
-  } */
+.dropdown {
+  position: relative;
+  display: flex;
+  flex: 1;                      /* same width share as the other nav links */
+}
+
+.dropdown-toggle {
+  flex: 1;
+  font: inherit;
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
+  color: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5em;
+  white-space: nowrap;
+}
+
+.dropdown-toggle:hover,
+.dropdown:focus-within .dropdown-toggle {
+  border-bottom: 0.4em solid var(--color-accent);
+  background-color: color-mix(in oklch, var(--color-accent), #000000 80%);
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 100%;
+  flex-direction: column;
+  background: #111111;
+  border: 1px solid #cacaca;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  z-index: 1001;
+}
+
+.dropdown:hover .dropdown-menu,
+.dropdown:focus-within .dropdown-menu,
+.dropdown.open .dropdown-menu {
+  display: flex;
+}
+
+.dropdown-menu a {
+  white-space: nowrap;
+}
+
+.dropdown-toggle.current {
+  border-bottom: 0.4em solid #b3eba4;   /* matches .current */
+}
